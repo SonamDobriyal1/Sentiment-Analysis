@@ -1,4 +1,5 @@
-Customer Sentiment Analysis for Netflix
+Customer Sentiment Analysis for Netflix:
+
 This project performs sentiment analysis on textual data using Natural Language Processing (NLP) techniques. It aims to classify text into positive, negative, or neutral sentiments based on the provided dataset.
 
 Necessary libraries:
